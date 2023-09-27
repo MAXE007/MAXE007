@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estoy actualmente estudiando en la tecncatura de programacion de la UTN
+Estoy actualmente estudiando en la tecnicatura de programacion de la UTN
 
 
 ## 🌐 Socials:
