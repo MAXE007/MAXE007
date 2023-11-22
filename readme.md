@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estoy actualmente estudiando en la tecnicatura de programacion de la UTN
+Estudiante de Programacion en la UTN y Analista de Datos Junior con Python
 
 
 ## 🌐 Socials:
