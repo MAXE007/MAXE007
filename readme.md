@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de Programacion en la UTN y Analista de Datos Junior con Python
+Técnico en Programacion y Analista de Datos Junior con Python
 
 
 ## 🌐 Socials:
